@@ -4,6 +4,8 @@ A sample web application using the [Catalyze v2 API](https://catalyze.io). Read 
 
 This application is an interactive online version of the [PHQ-9 Depression Questionnaire](http://www.integration.samhsa.gov/images/res/PHQ%20-%20Questions.pdf).
 
+[Check out the live demo!](http://catalyzeio.github.io/PHQ9/)
+
 ## Local Setup
 Dependencies:
 
