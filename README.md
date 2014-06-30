@@ -1,6 +1,6 @@
 # PHQ-9
 
-A sample web application using the [Catalyze v2 API](https://catalyze.io). Read more about it at {TODO blog post URL}.
+A sample web application using the [Catalyze v2 API](https://catalyze.io). Read more about it at [https://catalyze.io/blog/a-simple-hipaa-compliant-web-application-using-the-catalyze-v2-api/](https://catalyze.io/blog/a-simple-hipaa-compliant-web-application-using-the-catalyze-v2-api/).
 
 This application is an interactive online version of the [PHQ-9 Depression Questionnaire](http://www.integration.samhsa.gov/images/res/PHQ%20-%20Questions.pdf).
 
