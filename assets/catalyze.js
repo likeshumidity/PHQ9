@@ -32,7 +32,7 @@ angular.module("catalyze", []).service("catalyze", function($http) {
 
     // Register a user for an application.
     this.signUp = function(username, password, email) {
-        var user = {username: username, password: password, email: {primary: email}};
+        var user = {username: username, password: password, email: {primary: email}, name: {}};
         return $http.post(host + "/v2/users",
             user,
             {headers: buildHeaders()});
